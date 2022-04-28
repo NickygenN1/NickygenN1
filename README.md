@@ -2,5 +2,5 @@ Hi! I'm [Nicky](https://web.facebook.com/alan.hunter.39108297/), now i'm learnin
 
 I mainly study on  `Python`
  
-and know some `Html` `Css` `Django` 
+and know some `Html` `Css` `Django` and a bit with `Js`
 

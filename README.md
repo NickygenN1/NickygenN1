@@ -4,3 +4,5 @@ I mainly study on  `Python`
  
 and know some `Html` `Css` `Django` and a bit with `Js`
 
+I mostly post on [Gist](https://gist.github.com/NickygenN1)
+
